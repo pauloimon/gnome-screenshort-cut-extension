@@ -2,7 +2,7 @@
   "name": "Screenshort-cut",
   "description": "A simple shortcut to take screenshots directly on your top bar!",
   "uuid": "screenshort-cut@pauloimon",
-  "url": "https://github.com/pauloimon/screenshort-cut-gnome-extension",
+  "url": "https://github.com/pauloimon/gnome-screenshort-cut-extension",
   "shell-version": [
     "44",
     "43",
