@@ -1,4 +1,4 @@
-# screenshort-cut-gnome-extension
+# gnome-screenshort-cut-extension
 
 A simple shortcut to take screenshots directly on your top bar!
 
