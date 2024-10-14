@@ -5,6 +5,7 @@
   "url": "https://github.com/pauloimon/gnome-screenshort-cut-extension",
   "shell-version": [
     "46",
-    "45"
+    "45",
+    "47"
   ]
 }
