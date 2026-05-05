@@ -1,6 +1,6 @@
 {
   "name": "Screenshort-cut",
-  "description": "A simple shortcut to take screenshots directly on your top bar!",
+  "description": "A simple shortcut button to call the native screenshot tool directly on your GNOME panel.",
   "uuid": "screenshort-cut@pauloimon",
   "url": "https://github.com/pauloimon/gnome-screenshort-cut-extension",
   "shell-version": [
